@@ -2,7 +2,7 @@ package com.jenkins;
 
 public class App {
     public static void main(String[] args) {
-       System.err.println("Hello Dariya!");
+       System.out.println("Hello Dariya!");
        
     }
 }
