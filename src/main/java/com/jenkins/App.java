@@ -1,11 +1,11 @@
 package com.jenkins;
-
+import javax.swing.JFrame;
 public class App {
     public static void main(String[] args) {
-        System.out.println("Welcome Dariya Dourng!");
-        System.out.println("Thanks for comming here!");
-        System.out.println("Are you?");
-
+        JFrame frame = new JFrame("Welcome Dariya!");
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        frame.setSize(500, 200);
+        frame.setVisible(true);
        
     }
 }
