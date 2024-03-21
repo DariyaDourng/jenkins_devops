@@ -77,7 +77,7 @@
             <configuration>
                 <archive>
                     <manifest>
-                        <mainClass>com.tp01.App</mainClass>
+                        <mainClass>com.jenkins.App</mainClass>
                     </manifest>
                 </archive>
             </configuration>
